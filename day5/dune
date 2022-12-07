@@ -1,0 +1,5 @@
+(executable
+ (name day5)
+ (libraries iter pcre))
+
+
