@@ -123,4 +123,3 @@ let () =
 
   Printf.printf "pt2 test: %d\n" pt2_test;
   Printf.printf "pt2 input: %d\n" pt2_input;;
-
